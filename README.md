@@ -33,5 +33,5 @@ For example:
 
 # Architecture
 
-![Architecture](https://drive.google.com/open?id=1YLsQRnvSaOPi-KNosoQRRFxCjfLfTe6P)
+![Architecture](https://github.com/urvil38/api.ai/blob/master/documentation/images/api.003.jpeg)
 
