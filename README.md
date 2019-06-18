@@ -1,6 +1,6 @@
 # Kubernetes-dialogflow
 
-In this project I demonstred how you could integret google assitance app using dialogflow to talk to the kubernetes api server.
+In this project I demonstred how you could integrate google assistance app using dialogflow to talk to the kubernetes api server.
 
 For example:
 ```
